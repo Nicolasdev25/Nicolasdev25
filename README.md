@@ -18,10 +18,12 @@ Minha stack de estudos atual envolve:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
-### Conhecimentos
-- 🎓 Cursando Bacharelado em **Engenharia de Software**.
-- 🚀 Transição de carreira focada em desenvolvimento Web.
-- 🎯 Objetivo: Estágio em Desenvolvimento Software / Frontend.
+### 🎓 Conhecimentos 
+- Lógica de Programação.
+- Phyton Basico.
+- Estruturas de Condicionais
+- Sistemas Operacionais
+- Redes de Computadores
 ---
 
 ### 📫 Vamos nos conectar?
