@@ -19,13 +19,9 @@ Minha stack de estudos atual envolve:
 
 ---
 ### Conhecimentos
-
-Lógica de Programação
-Programação Orientada a Objetos (POO)
-Phyton Basico
-Git e GitHub
-Conceitos básicos de redes de computadores
-Conhecimento em Sistemas Operacionais
+- 🎓 Cursando Bacharelado em **Engenharia de Software**.
+- 🚀 Transição de carreira focada em desenvolvimento Web.
+- 🎯 Objetivo: Estágio em Desenvolvimento Software / Frontend.
 ---
 
 ### 📫 Vamos nos conectar?
