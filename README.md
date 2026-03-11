@@ -18,7 +18,14 @@ Minha stack de estudos atual envolve:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
+### Conhecimentos
 
+Lógica de Programação
+Programação Orientada a Objetos (POO)
+Phyton Basico
+Git e GitHub
+Conceitos básicos de redes de computadores
+Conhecimento em Sistemas Operacionais
 ---
 
 ### 📫 Vamos nos conectar?
